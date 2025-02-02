@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="anzac_bridge">Anzac Bridge</string>
+    <string name="anzac_bridge_content_description">A span of suspension cables of Anzac Bridge
+        compare nicely with the mast ropes of the old sailing ship. </string>
+    <string name="anzac_bridge_year">(2007)</string>
+    <string name="bumblebee">Bumblebee</string>
+    <string name="bumblebee_content_description">A bee is depicted on a vibrant yellow flower,
+        showcasing the intricate details of the insect and its role as a pollinator.</string>
+    <string name="bumblebee_year">(2018)</string>
+    <string name="dennis_jarvis">Dennis Jarvis</string>
+    <string name="james_johnstone">James Johnstone</string>
+    <string name="malcolm_buck">Malcolm Buck</string>
+    <string name="terrorism">Terrorism Hits Canada</string>
+    <string name="terrorism_content_description">A Quebec City mosque on Jan. 29 was attacked and 6
+        are dead with eight others wounded. 6 flowers - one for each victim of this terrible act.
+        The image features a vibrant group of flowers, showcasing various types such as asters.
+        These include alpine aster and New England aster among others. The colors prominently
+        display shades of purple, highlighting their petals and natural beauty in an outdoor
+        setting.</string>
+    <string name="terrorism_year">(2016)</string>
+</resources>
